@@ -1,0 +1,23 @@
+#header{
+    background-image: url("/image/main_top.jpg");
+    color: white;
+}
+
+#text{
+    background-image: url("/image/header_bg.jpg");
+    color: white;
+}
+
+#end{
+    background-image: url("/image/end_bg.jpg");
+    color: white;
+}
+
+#menu{
+    background-image:url("/image/header_bg.jpg");
+    color:white;
+}
+
+#category{
+    color:white;
+}
